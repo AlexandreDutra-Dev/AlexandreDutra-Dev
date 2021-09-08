@@ -27,7 +27,7 @@ Atualmente estou no 4º semestre de Analise e Desenvolvimento de Sistemas na Fat
 
 ----
 
-[website]: https://codedev.ga/
+[website]: https://alexandredutra.netlify.app/
 [linkedin]: https://www.linkedin.com/in/alexandre-dutra-669266214/
 <br>
 
