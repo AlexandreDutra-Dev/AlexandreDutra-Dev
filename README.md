@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Alexandre Dutra</strong>
 
-Atualmente estou no 4º semestre de Analise e Desenvolvimento de Sistemas na Fatec Arthur de Azevedo na Cidade de Mogi Mirim SP
+Atualmente estou no 5º semestre de Analise e Desenvolvimento de Sistemas na Fatec Arthur de Azevedo na Cidade de Mogi Mirim SP
 
 🔭 Estudando e adquirindo conhecimento para me tornar um desenvolvedor full stack de sistemas
 
